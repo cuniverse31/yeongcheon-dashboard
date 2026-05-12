@@ -5,7 +5,7 @@
 **데이터 시각화 공모전 출품작 | Team 영천의미학**
 
 https://yeongcheon-dashboard-6afkgzgdj3vnvjfhsajeyy.streamlit.app/
-*(👆 클릭시 대시보드 웹사이트로 바로 이동!)*
+*( 클릭시 대시보드 웹사이트로 바로 이동!)*
 
 ---
 
