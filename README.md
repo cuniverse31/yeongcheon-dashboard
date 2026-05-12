@@ -4,8 +4,8 @@
 
 **데이터 시각화 공모전 출품작 | Team 영천의미학**
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://yeongcheon-dashboard.streamlit.app/) 
-*(👆 위 배너를 클릭하면 대시보드 웹사이트로 바로 이동합니다!)*
+https://yeongcheon-dashboard-6afkgzgdj3vnvjfhsajeyy.streamlit.app/
+*(👆 클릭시 대시보드 웹사이트로 바로 이동!)*
 
 ---
 
